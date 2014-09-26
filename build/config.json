@@ -1,0 +1,10 @@
+{
+	"__comment" : "this file, once populated, should be placed in /etc/whitenoise",
+	"sites" : {
+		"__comment" : "Each field in this object is a friendly name of the site. It will be used in logs",
+		"somesite.com" : {
+			"__comment" : "root is the absolute path to the site asset root folder",
+			"root" : "/path/to/the/site"
+		}
+	}
+}

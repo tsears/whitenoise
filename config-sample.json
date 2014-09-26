@@ -1,0 +1,9 @@
+{
+	"sites" : {
+		"__comment" : "Each field in this object is a friendly name of the site...",
+		"somesite.com" : {
+			"__comment" : "root is the absolute path to the site asset root folder",
+			"root" : "/path/to/the/site"
+		}
+	}
+}
